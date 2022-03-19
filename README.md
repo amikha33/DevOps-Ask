@@ -4,4 +4,4 @@ DevOps wins by making the business Wins ☺️ <br>
 DevOps architect mindset I follow to Create any CI/CD Pipeline.
 
 
-Aghapy Mikhail , Mohammed Ramadan ® all rights reserved
+Aghapy Mikhail ,My Mentor Mohammed Ramadan ® all rights reserved
