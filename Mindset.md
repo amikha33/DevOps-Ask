@@ -1,4 +1,14 @@
 
+# DevOps-Mindset-in-Buissnes
+DevOps wins by making the business Wins ☺️ <br>
+
+DevOps architect mindset I follow to Create any CI/CD Pipeline.
+
+Aghapy Mikhail ,My Mentor Mohammed Ramadan ® all rights reserved
+
+
+
+
 ##  1-CI/CD  Tool
 
 Gitlab, Jenkins , AWS Codepipline or ArgoCD for CD .. <br>
