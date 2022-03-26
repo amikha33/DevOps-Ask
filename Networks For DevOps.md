@@ -12,7 +12,7 @@ along with continuous development, integration and deployment of new networking 
 7- Serving static content <br>
 8- Header enrichment <br>
 9- Smart routing (usually in the proxy / reverse proxy part) based on headers, regex, and custom scripts <br>
-10- Rate limiting <br>.
+10- Rate limiting <br>
 11- White / black lists <br>
 12- Authentication (at least basic) <br>
 13- Difference between layer 4 and layer 7 load balancing, etc. <br>
