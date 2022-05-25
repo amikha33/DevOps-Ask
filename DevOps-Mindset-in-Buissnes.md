@@ -46,7 +46,8 @@ affects on thr budget in the future so will take care about this maybe stored on
 
 ## 6-Storing  artifacts
 for roll back these take space of your server will be discarded or stored like Jenkins Disk Space Management: Clean Up Old Builds.
-
+- Jfrog 
+- Nexus
 ## 7-Container Enviroment
 Selfmanged Containers ECS or EKS or Fargate.
 
